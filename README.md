@@ -12,7 +12,7 @@ Screenshots so far:
 
 <img src="https://github.com/theoctopusride/AndroidStudyAppForOOP-Memory-Storage/blob/master/screenshots/Screenshot_1579561644.png" width="400">
 
-<img src="https://github.com/theoctopusride/AndroidStudyAppForOOP-Memory-Storage/blob/master/screenshots/Screenshot_1579561644.png" width="400">
+<img src="https://github.com/theoctopusride/AndroidStudyAppForOOP-Memory-Storage/blob/master/screenshots/Screenshot_1579561851.png" width="400">
 
 <img src="https://github.com/theoctopusride/AndroidStudyAppForOOP-Memory-Storage/blob/master/screenshots/Screenshot_1579563150.png" width="400">
 
