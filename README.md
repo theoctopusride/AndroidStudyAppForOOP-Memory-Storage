@@ -4,13 +4,16 @@ A multiple choice quiz Android app built in Android Studio for personal use. Top
 I'm still editing the app and in the process of getting approved by Google to put on Play Store.
 
 # Next Steps:
-Currently, I'm only using the app to test myself for possible interviews at the companies I would really like to work for. I intend to add different categorical questions and other features soon.
+Currently, I'm only using the app to test myself on topics I'm interested in. I intend to add different categorical questions and other features soon.
 
 Screenshots so far:
 
-![home screen](screenshots/Screenshot_1579561624.png)
+<img src="https://github.com/theoctopusride/AndroidStudyAppForOOP-Memory-Storage/blob/master/screenshots/Screenshot_1579561624.png" width="400">
 
-![question1](Screenshot_1579561644.png)
+<img src="https://github.com/theoctopusride/AndroidStudyAppForOOP-Memory-Storage/blob/master/screenshots/Screenshot_1579561644.png" width="400">
 
-![question2](Screenshot_1579561851.png)
+<img src="https://github.com/theoctopusride/AndroidStudyAppForOOP-Memory-Storage/blob/master/screenshots/Screenshot_1579561644.png" width="400">
+
+<img src="https://github.com/theoctopusride/AndroidStudyAppForOOP-Memory-Storage/blob/master/sreenshots/Screenshot_1579561851.png" width="400">
+
 
