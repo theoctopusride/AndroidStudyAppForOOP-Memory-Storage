@@ -3,6 +3,8 @@ A multiple choice quiz Android app built in Android Studio for personal use. Top
 
 I'm still editing the app and in the process of getting approved by Google to put on Play Store.
 
+**Technologies used:** Android Studio, Java, SQLite
+
 # Next Steps:
 Currently, I'm only using the app to test myself on topics I'm interested in. I intend to add different categorical questions and other features soon.
 
