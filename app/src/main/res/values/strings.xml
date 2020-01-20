@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Storage, Memory and OOP Quiz</string>
+    <string name="high_score_start">High Score: 0</string>
+    <string name="question_inheritance">What is inheritance in object-oriented programming?</string>
+    <string name="answer_inheritance">Allows classes to inherit commonly used state and behavior from other classes</string>
+    <string name="question_object">What is an object in object-oriented programming?</string>
+    <string name="answer_object">A software bundle of related state and behavior</string>
+    <string name="question_class">What is a class in object-oriented programming?</string>
+    <string name="answer_class">A blueprint from which individual objects are created</string>
+    <string name="question_encapsulation">What is encapsulation?</string>
+    <string name="answer_encapsulation">The wrapping up of data under a single unit; mechanism that binds code and the data it manipulates</string>
+    <string name="question_oop">What is object-oriented programming?</string>
+    <string name="answer_oop">A type of computer programming (software design) in which programmers define the data type of a data structure and also the functions that can be applied to it</string>
+    <string name="question_memory_cell">What is a memory cell?</string>
+    <string name="answer_memory_cell">The fundamental building block of computer memory</string>
+    <string name="question_flash_storage">What is flash storage?</string>
+    <string name="answer_flash_storage">A solid-state non-volatile memory medium that can be erased and reprogrammed</string>
+    <string name="question_modularity">What is modularity in computer science?</string>
+    <string name="answer_modularity">Each piece or module contains everything necessary to execute one aspect of desired functionality</string>
+    <string name="question_recursion">When is recursion useful?</string>
+    <string name="answer_recursion">When the problem can be broken down into smaller, repetitive problems</string>
+    <string name="question_nor_flash">What is NOR flash primarily used for?</string>
+    <string name="answer_nor_flash">Used for code execution because of its fast read times</string>
+    <string name="question_nand_flash">What is NAND flash primarily used for?</string>
+    <string name="answer_nand_flash">Used for mass storage devices including SSDs</string>
+    <string name="question_overloading">What is method overloading?</string>
+    <string name="answer_overloading">Allows different methods to have the same name, but different signatures where the signature can differ by the number of input parameters or type of input parameters or both</string>
+    <string name="question_overriding">What is overriding?</string>
+    <string name="answer_overriding">A feature that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its super-classes or parent classes</string>
+    <string name="question_polymorphism">What is polymorphism?</string>
+    <string name="answer_polymorphism">Allows you to define one interface and have multiple implementations</string>
+    <string name="question_interface">What is an interface?</string>
+    <string name="answer_interface">Specifies what a class must do, but not how</string>
+
+</resources>
